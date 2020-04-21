@@ -1,4 +1,4 @@
-# PGraphics
+# 5주차 PGraphics
 ## 안동대학교 김민정 
 
 ```
