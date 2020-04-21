@@ -1,5 +1,5 @@
 # PGraphics
-## 김민정 
+## 안동대학교 김민정 
 
 ```
 PGraphics pg;
