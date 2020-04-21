@@ -9,3 +9,5 @@ void draw(){           //반복 실행
   if(mousePressed)      //마우스를 누를때마다
       line(pmouseX,pmouseY,mouseX,mouseY);   //선이 생기는것
 }
+
+```
