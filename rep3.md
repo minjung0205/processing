@@ -1,4 +1,4 @@
-# examples (Patterns)
+# 3주차 examples (Patterns)
 ## 김민정
 
 
